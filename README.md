@@ -1,7 +1,3 @@
-<div align="center">
-   <img src="https://avatars.githubusercontent.com/u/22418939?v=4" height="auto" width="200" style="border-radius:50%" />
-</div>
-
 ###
 
 <div align="center">
