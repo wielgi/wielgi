@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Robert from Poland<br>- 🔭 I’m working as IT PROJECT MANAGER<br>- 📚 I'm currently learning Typescript, Nextjs, Nestjs<br>- ⚡ In my free time I'm riding inline skates or paragliding</p>
+<p align="left">I'm Robert from Poland<br>- 🔭 I’m working as IT PROJECT MANAGER<br>- 📚 I'm currently learning Typescript, Nextjs, Nestjs<br>- ⚡ In my free time I'm riding inline skates 🛼 or play tennis 🎾</p>
 
 ###
 
